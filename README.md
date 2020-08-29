@@ -16,4 +16,4 @@ Here are some ideas to get you started:
 -->
 
 [![Dheeraj github stats](https://github-readme-stats.vercel.app/api?username=dheerajpoonia29&show_icons=false&line_height=21&theme=tokyonight&hide=stars,contribs,prs)](https://github.com/anuraghazra/github-readme-stats)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=dheerajpoonia29&how_icons=true&layout=compact&theme=dracula&hide=html,css)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=dheerajpoonia29&how_icons=true&layout=compact&theme=dracula&hide=html,css,php,juypter)](https://github.com/anuraghazra/github-readme-stats)
