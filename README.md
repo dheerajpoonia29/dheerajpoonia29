@@ -19,7 +19,7 @@ https://raw.githubusercontent.com/praveenscience/praveenscience/master/dino.gif
 ![Dino](https://raw.githubusercontent.com/praveenscience/praveenscience/master/dino.gif)
 
 [![Dheeraj github stats](https://github-readme-stats.vercel.app/api?username=dheerajpoonia29&show_icons=false&line_height=21&theme=tokyonight&contribs,prs)](https://github.com/anuraghazra/github-readme-stats)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=dheerajpoonia29&how_icons=true&layout=compact&theme=dracula&hide=html,css,php,Juypter)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=dheerajpoonia29&how_icons=true&layout=compact&theme=dracula)](https://github.com/anuraghazra/github-readme-stats)
 
 <html>
 <iframe width="100%" height="300" scrolling="no" frameborder="no" allow="autoplay" src="https://w.soundcloud.com/player/?url=https%3A//api.soundcloud.com/playlists/661841409&color=%23ff5500&auto_play=true&hide_related=false&show_comments=true&show_user=true&show_reposts=false&show_teaser=true&visual=true"></iframe>
