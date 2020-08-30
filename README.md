@@ -24,17 +24,19 @@ Here are some ideas to get you started:
 [![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=anuraghazra&repo=github-readme-stats)](https://github.com/anuraghazra/github-readme-stats)
 
 ## btech coursework repo
-[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=anuraghazra&repo=github-readme-stats)](https://github.com/anuraghazra/github-readme-stats)
-[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=dheerajpoonia29&repo=bookReview-projectPythonFlask)](https://github.com/anuraghazra/github-readme-stats)
+|      computer graphics algo     |       machine learning algo       |    digital image processing    |
+:-------------------------:|:-------------------------:|:-------------------------:
+[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=dheerajpoonia29&repo=cppComputerGraphics-courseWork)](https://github.com/anuraghazra/github-readme-stats) | [![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=dheerajpoonia29&repo=machineLearningAlgorithm-courseWork)](https://github.com/anuraghazra/github-readme-stats) | [![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=dheerajpoonia29&repo=digitalImageProcessing-courseWork)](https://github.com/anuraghazra/github-readme-stats)
 
 ## projects repo
-|      used flask framework     |   used django framework    |    used mern stack    |
+|      python project     |   python-django project    |    javascript-mern project    |
 :-------------------------:|:-------------------------:|:-------------------------:
-[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=dheerajpoonia29&repo=bookReview-projectPythonFlask)](https://github.com/anuraghazra/github-readme-stats) | ![student-mark-management](https://github-readme-stats.vercel.app/api/pin/?username=dheerajpoonia29&repo=studentsMarksManagement-projectPythonDjango) | [![ecommerce-website](https://github-readme-stats.vercel.app/api/pin/?username=dheerajpoonia29&repo=mernStack-bootcampLco)](https://github.com/anuraghazra/github-readme-stats)
+[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=dheerajpoonia29&repo=bookReview-projectPythonFlask&hide=disc)]() | [![student-mark-management](https://github-readme-stats.vercel.app/api/pin/?username=dheerajpoonia29&repo=studentsMarksManagement-projectPythonDjango)]() | [![ecommerce-website](https://github-readme-stats.vercel.app/api/pin/?username=dheerajpoonia29&repo=mernStack-bootcampLco)]()
 
 ## languages 
-|            |            |
-:-------------------------:|:-------------------------:
+|     cpp       |      python      |       javascript   |     java
+:-------------------------:|:-------------------------:|:-------------------------:|:-------------------------:
+[![cpp](https://github-readme-stats.vercel.app/api/pin/?username=dheerajpoonia29&repo=cppLanguage-courseWork)]() | [![python](https://github-readme-stats.vercel.app/api/pin/?username=dheerajpoonia29&repo=pythonLanguage-courseWork)]() | [![javascript](https://github-readme-stats.vercel.app/api/pin/?username=dheerajpoonia29&repo=javascriptLanguage-autoDidact)]() | [![java](https://github-readme-stats.vercel.app/api/pin/?username=dheerajpoonia29&repo=javaLanguage-courseWork)]() |
 
 
 Contributions are welcomed! <3
