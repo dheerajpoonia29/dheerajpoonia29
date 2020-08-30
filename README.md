@@ -24,12 +24,12 @@ Here are some ideas to get you started:
 :-------------------------:|:-------------------------:|:-------------------------:
 [![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=dheerajpoonia29&repo=bookReview-projectPythonFlask&hide=disc)](https://github.com/dheerajpoonia29/bookReview-projectPythonFlask) | [![student-mark-management](https://github-readme-stats.vercel.app/api/pin/?username=dheerajpoonia29&repo=studentsMarksManagement-projectPythonDjango)](https://github.com/dheerajpoonia29/studentsMarksManagement-projectPythonDjango) | [![ecommerce-website](https://github-readme-stats.vercel.app/api/pin/?username=dheerajpoonia29&repo=mernStack-bootcampLco)](https://github.com/dheerajpoonia29/mernStack-bootcampLco)
 
-## Languages I Learned
+### Languages I Learned
 |     cpp       |      python      |       javascript   |     java
 :-------------------------:|:-------------------------:|:-------------------------:|:-------------------------:
 [![cpp](https://github-readme-stats.vercel.app/api/pin/?username=dheerajpoonia29&repo=cppLanguage-courseWork)](https://github.com/dheerajpoonia29/cppLanguage-courseWork) | [![python](https://github-readme-stats.vercel.app/api/pin/?username=dheerajpoonia29&repo=pythonLanguage-courseWork)](https://github.com/dheerajpoonia29/pythonLanguage-courseWork) | [![javascript](https://github-readme-stats.vercel.app/api/pin/?username=dheerajpoonia29&repo=javascriptLanguage-autoDidact)](https://github.com/dheerajpoonia29/javascriptLanguage-autoDidact) | [![java](https://github-readme-stats.vercel.app/api/pin/?username=dheerajpoonia29&repo=javaLanguage-courseWork)](https://github.com/dheerajpoonia29/javaLanguage-courseWork) |
 
-## Undergraduation Course Work 
+### Undergraduation Course Work 
 > Digital Image Processing  [repo](https://github.com/dheerajpoonia29/digitalImageProcessing-courseWork), Machine Learning Algorithms  [repo](https://github.com/dheerajpoonia29/machineLearningAlgorithm-courseWork), Computer Graphics [repo](https://github.com/dheerajpoonia29/cppComputerGraphics-courseWork)
 
 Contributions are welcomed! <3
