@@ -20,9 +20,6 @@ Here are some ideas to get you started:
 [![Dheeraj github stats](https://github-readme-stats.vercel.app/api?username=dheerajpoonia29&show_icons=true&line_height=21&theme=tokyonight&contribs,prs)](https://soundcloud.com/dheerajpoonia29)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=dheerajpoonia29&show_icons=true&layout=compact&theme=dracula&hide=html,Jupyter-Notebook)](https://soundcloud.com/dheerajpoonia29)
 
-## Data structure and algorithms
-[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=anuraghazra&repo=github-readme-stats)](https://github.com/anuraghazra/github-readme-stats)
-
 ## btech coursework repo
 |      computer graphics algo     |       machine learning algo       |    digital image processing    |
 :-------------------------:|:-------------------------:|:-------------------------:
