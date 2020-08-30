@@ -1,4 +1,8 @@
 ### Hi there 👋
+<hr/>
+![Dino](https://raw.githubusercontent.com/praveenscience/praveenscience/master/dino.gif)
+<hr/>
+
 <!--
 > 🔭 I’m currently working on final year project - blockchain ❤️
 **dheerajpoonia29/dheerajpoonia29** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -15,21 +19,24 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-![Dino](https://raw.githubusercontent.com/praveenscience/praveenscience/master/dino.gif)
-
 [![Dheeraj github stats](https://github-readme-stats.vercel.app/api?username=dheerajpoonia29&show_icons=true&line_height=21&theme=tokyonight&contribs,prs)](https://soundcloud.com/dheerajpoonia29)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=dheerajpoonia29&show_icons=true&layout=compact&theme=dracula&hide=html,Jupyter-Notebook)](https://soundcloud.com/dheerajpoonia29)
 
 ### Projects I Made
+<hr/>
 |      python, flask, postgres     |   python, django, orm     |    javascript, mern stack    |
 :-------------------------:|:-------------------------:|:-------------------------:
 [![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=dheerajpoonia29&repo=bookReview-projectPythonFlask&hide=disc)](https://github.com/dheerajpoonia29/bookReview-projectPythonFlask) | [![student-mark-management](https://github-readme-stats.vercel.app/api/pin/?username=dheerajpoonia29&repo=studentsMarksManagement-projectPythonDjango)](https://github.com/dheerajpoonia29/studentsMarksManagement-projectPythonDjango) | [![ecommerce-website](https://github-readme-stats.vercel.app/api/pin/?username=dheerajpoonia29&repo=mernStack-bootcampLco)](https://github.com/dheerajpoonia29/mernStack-bootcampLco)
 
 ## Languages I Learned
+<hr/>
 |     cpp       |      python      |       javascript   |     java
 :-------------------------:|:-------------------------:|:-------------------------:|:-------------------------:
 [![cpp](https://github-readme-stats.vercel.app/api/pin/?username=dheerajpoonia29&repo=cppLanguage-courseWork)](https://github.com/dheerajpoonia29/cppLanguage-courseWork) | [![python](https://github-readme-stats.vercel.app/api/pin/?username=dheerajpoonia29&repo=pythonLanguage-courseWork)](https://github.com/dheerajpoonia29/pythonLanguage-courseWork) | [![javascript](https://github-readme-stats.vercel.app/api/pin/?username=dheerajpoonia29&repo=javascriptLanguage-autoDidact)](https://github.com/dheerajpoonia29/javascriptLanguage-autoDidact) | [![java](https://github-readme-stats.vercel.app/api/pin/?username=dheerajpoonia29&repo=javaLanguage-courseWork)](https://github.com/dheerajpoonia29/javaLanguage-courseWork) |
 
+## Undergraduation Course Work 
+<hr/>
+> Digital Image Processing  [repo](https://github.com/dheerajpoonia29/digitalImageProcessing-courseWork), Machine Learning Algorithms  [repo](https://github.com/dheerajpoonia29/machineLearningAlgorithm-courseWork), Computer Graphics [repo](https://github.com/dheerajpoonia29/cppComputerGraphics-courseWork)
 
 Contributions are welcomed! <3
 
