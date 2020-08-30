@@ -21,7 +21,7 @@ Here are some ideas to get you started:
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=dheerajpoonia29&show_icons=true&layout=compact&theme=dracula&hide=html,Jupyter-Notebook)](https://soundcloud.com/dheerajpoonia29)
 
 ### Projects I Made
-|      python flask project     |   python django project    |    javascript mern project    |
+|      python, flask, postgres     |   python, django, orm     |    javascript, mern stack    |
 :-------------------------:|:-------------------------:|:-------------------------:
 [![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=dheerajpoonia29&repo=bookReview-projectPythonFlask&hide=disc)](https://github.com/dheerajpoonia29/bookReview-projectPythonFlask) | [![student-mark-management](https://github-readme-stats.vercel.app/api/pin/?username=dheerajpoonia29&repo=studentsMarksManagement-projectPythonDjango)](https://github.com/dheerajpoonia29/studentsMarksManagement-projectPythonDjango) | [![ecommerce-website](https://github-readme-stats.vercel.app/api/pin/?username=dheerajpoonia29&repo=mernStack-bootcampLco)](https://github.com/dheerajpoonia29/mernStack-bootcampLco)
 
