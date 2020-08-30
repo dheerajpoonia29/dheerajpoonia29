@@ -18,7 +18,7 @@ Here are some ideas to get you started:
 ![Dino](https://raw.githubusercontent.com/praveenscience/praveenscience/master/dino.gif)
 
 [![Dheeraj github stats](https://github-readme-stats.vercel.app/api?username=dheerajpoonia29&show_icons=true&line_height=21&theme=tokyonight&contribs,prs)](https://github.com/anuraghazra/github-readme-stats)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=dheerajpoonia29&how_icons=true&layout=compact&theme=dracula&hide=html)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=dheerajpoonia29&how_icons=true&layout=compact&theme=dracula&hide=html,notebook, juypter)](https://github.com/anuraghazra/github-readme-stats)
 
 
 
