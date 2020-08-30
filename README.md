@@ -14,7 +14,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-![Dino](https://raw.githubusercontent.com/praveenscience/praveenscience/master/dino.gif)
+![Dino](https://github.com/dheerajpoonia29/dheerajpoonia29/blob/master/dino.gif)
 
 [![Dheeraj github stats](https://github-readme-stats.vercel.app/api?username=dheerajpoonia29&show_icons=true&line_height=21&theme=tokyonight&contribs,prs)](https://soundcloud.com/dheerajpoonia29)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=dheerajpoonia29&show_icons=true&layout=compact&theme=dracula&include_lang=java)](https://soundcloud.com/dheerajpoonia29)
@@ -34,4 +34,4 @@ Here are some ideas to get you started:
 
 Contributions are welcomed! <3
 
-Code with ❤️ by <a href="https://soundcloud.com/dheerajpoonia29" target="_blank">**trancecoder** <img alt="Tests Passing" src="https://image.flaticon.com/icons/svg/179/179339.svg" height=25 weight=25/></a>
+Code with ❤️ by <a href="https://soundcloud.com/dheerajpoonia29" target="_blank">**trancecoder** <img alt="Tests Passing" src="https://github.com/dheerajpoonia29/dheerajpoonia29/blob/master/icons8-soundcloud.svg" height=25 weight=25/></a>
