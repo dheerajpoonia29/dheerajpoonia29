@@ -20,17 +20,12 @@ Here are some ideas to get you started:
 [![Dheeraj github stats](https://github-readme-stats.vercel.app/api?username=dheerajpoonia29&show_icons=true&line_height=21&theme=tokyonight&contribs,prs)](https://soundcloud.com/dheerajpoonia29)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=dheerajpoonia29&show_icons=true&layout=compact&theme=dracula&hide=html,Jupyter-Notebook)](https://soundcloud.com/dheerajpoonia29)
 
-## btech coursework repo
-|      computer graphics algo     |       machine learning algo       |    digital image processing    |
-:-------------------------:|:-------------------------:|:-------------------------:
-[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=dheerajpoonia29&repo=cppComputerGraphics-courseWork)](https://github.com/anuraghazra/github-readme-stats) | [![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=dheerajpoonia29&repo=machineLearningAlgorithm-courseWork)](https://github.com/anuraghazra/github-readme-stats) | [![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=dheerajpoonia29&repo=digitalImageProcessing-courseWork)](https://github.com/anuraghazra/github-readme-stats)
-
-## projects repo
+### Projects I Made
 |      python project     |   python-django project    |    javascript-mern project    |
 :-------------------------:|:-------------------------:|:-------------------------:
 [![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=dheerajpoonia29&repo=bookReview-projectPythonFlask&hide=disc)]() | [![student-mark-management](https://github-readme-stats.vercel.app/api/pin/?username=dheerajpoonia29&repo=studentsMarksManagement-projectPythonDjango)]() | [![ecommerce-website](https://github-readme-stats.vercel.app/api/pin/?username=dheerajpoonia29&repo=mernStack-bootcampLco)]()
 
-## languages 
+## Languages I Learn
 |     cpp       |      python      |       javascript   |     java
 :-------------------------:|:-------------------------:|:-------------------------:|:-------------------------:
 [![cpp](https://github-readme-stats.vercel.app/api/pin/?username=dheerajpoonia29&repo=cppLanguage-courseWork)]() | [![python](https://github-readme-stats.vercel.app/api/pin/?username=dheerajpoonia29&repo=pythonLanguage-courseWork)]() | [![javascript](https://github-readme-stats.vercel.app/api/pin/?username=dheerajpoonia29&repo=javascriptLanguage-autoDidact)]() | [![java](https://github-readme-stats.vercel.app/api/pin/?username=dheerajpoonia29&repo=javaLanguage-courseWork)]() |
