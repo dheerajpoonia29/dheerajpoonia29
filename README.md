@@ -16,8 +16,8 @@ Here are some ideas to get you started:
 
 ![Dino](https://github.com/dheerajpoonia29/dheerajpoonia29/blob/master/dino.gif)
 
-[![Dheeraj github stats](https://github-readme-stats.vercel.app/api?username=dheerajpoonia29&show_icons=true&line_height=21&theme=tokyonight&contribs,prs)](https://soundcloud.com/dheerajpoonia29)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=dheerajpoonia29&show_icons=true&layout=compact&theme=dracula&hide=jupyter%20notebook)](https://soundcloud.com/dheerajpoonia29)
+[![Dheeraj github stats](https://github-readme-stats.vercel.app/api?username=dheerajpoonia29&show_icons=true&line_height=21&theme=tokyonight)](https://soundcloud.com/dheerajpoonia29)
+
 
 ### Projects I Made
 |      python, flask, postgres     |   python, django, orm     |    javascript, mern stack    |
