@@ -33,4 +33,4 @@ Here are some ideas to get you started:
 
 Contributions are welcomed! <3
 
-Code with ❤️ by <a href="https://soundcloud.com/dheerajpoonia29" target="_blank"><img alt="Tests Passing" src="https://image.flaticon.com/icons/svg/179/179339.svg" height=25 weight=25/> **trancecoder** </a>
+Code with ❤️ by <a href="https://soundcloud.com/dheerajpoonia29" target="_blank">**trancecoder**<img alt="Tests Passing" src="https://image.flaticon.com/icons/svg/179/179339.svg" height=25 weight=25/></a>
