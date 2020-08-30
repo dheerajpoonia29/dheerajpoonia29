@@ -21,16 +21,16 @@ Here are some ideas to get you started:
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=dheerajpoonia29&show_icons=true&layout=compact&theme=dracula&hide=html,Jupyter-Notebook)](https://soundcloud.com/dheerajpoonia29)
 
 ### Projects I Made
-|      python project     |   python-django project    |    javascript-mern project    |
+|      python flask project     |   python django project    |    javascript mern project    |
 :-------------------------:|:-------------------------:|:-------------------------:
-[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=dheerajpoonia29&repo=bookReview-projectPythonFlask&hide=disc)]() | [![student-mark-management](https://github-readme-stats.vercel.app/api/pin/?username=dheerajpoonia29&repo=studentsMarksManagement-projectPythonDjango)]() | [![ecommerce-website](https://github-readme-stats.vercel.app/api/pin/?username=dheerajpoonia29&repo=mernStack-bootcampLco)]()
+[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=dheerajpoonia29&repo=bookReview-projectPythonFlask&hide=disc)](https://github.com/dheerajpoonia29/pythonLanguage-courseWork) | [![student-mark-management](https://github-readme-stats.vercel.app/api/pin/?username=dheerajpoonia29&repo=studentsMarksManagement-projectPythonDjango)](https://github.com/dheerajpoonia29/studentsMarksManagement-projectPythonDjango) | [![ecommerce-website](https://github-readme-stats.vercel.app/api/pin/?username=dheerajpoonia29&repo=mernStack-bootcampLco)](https://github.com/dheerajpoonia29/mernStack-bootcampLco)
 
 ## Languages I Learn
 |     cpp       |      python      |       javascript   |     java
 :-------------------------:|:-------------------------:|:-------------------------:|:-------------------------:
-[![cpp](https://github-readme-stats.vercel.app/api/pin/?username=dheerajpoonia29&repo=cppLanguage-courseWork)]() | [![python](https://github-readme-stats.vercel.app/api/pin/?username=dheerajpoonia29&repo=pythonLanguage-courseWork)]() | [![javascript](https://github-readme-stats.vercel.app/api/pin/?username=dheerajpoonia29&repo=javascriptLanguage-autoDidact)]() | [![java](https://github-readme-stats.vercel.app/api/pin/?username=dheerajpoonia29&repo=javaLanguage-courseWork)]() |
+[![cpp](https://github-readme-stats.vercel.app/api/pin/?username=dheerajpoonia29&repo=cppLanguage-courseWork)](https://github.com/dheerajpoonia29/cppLanguage-courseWork) | [![python](https://github-readme-stats.vercel.app/api/pin/?username=dheerajpoonia29&repo=pythonLanguage-courseWork)](https://github.com/dheerajpoonia29/pythonLanguage-courseWork) | [![javascript](https://github-readme-stats.vercel.app/api/pin/?username=dheerajpoonia29&repo=javascriptLanguage-autoDidact)](https://github.com/dheerajpoonia29/javascriptLanguage-autoDidact) | [![java](https://github-readme-stats.vercel.app/api/pin/?username=dheerajpoonia29&repo=javaLanguage-courseWork)](https://github.com/dheerajpoonia29/javaLanguage-courseWork) |
 
 
 Contributions are welcomed! <3
 
-Code with ❤️ by <a href="https://soundcloud.com/dheerajpoonia29" target="_blank">**trancecoder**<img alt="Tests Passing" src="https://image.flaticon.com/icons/svg/179/179339.svg" height=25 weight=25/></a>
+Code with ❤️ by <a href="https://soundcloud.com/dheerajpoonia29" target="_blank">**trancecoder** <img alt="Tests Passing" src="https://image.flaticon.com/icons/svg/179/179339.svg" height=25 weight=25/></a>
