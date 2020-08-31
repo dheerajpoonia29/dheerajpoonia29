@@ -1,5 +1,7 @@
 ### Hi there 👋
 
+![Dino](https://github.com/dheerajpoonia29/dheerajpoonia29/blob/master/dino.gif)
+
 <!--
 🔭 I’m currently working on final year project - blockchain ❤️
 **dheerajpoonia29/dheerajpoonia29** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -23,8 +25,9 @@ Here are some ideas to get you started:
 [![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=dheerajpoonia29&repo=bookReview-projectPythonFlask&theme=tokyonight&hide=disc)](https://github.com/dheerajpoonia29/bookReview-projectPythonFlask) | [![student-mark-management](https://github-readme-stats.vercel.app/api/pin/?username=dheerajpoonia29&repo=studentsMarksManagement-projectPythonDjango&theme=tokyonight)](https://github.com/dheerajpoonia29/studentsMarksManagement-projectPythonDjango) | [![ecommerce-website](https://github-readme-stats.vercel.app/api/pin/?username=dheerajpoonia29&repo=mernStack-bootcampLco&theme=tokyonight)](https://github.com/dheerajpoonia29/mernStack-bootcampLco)
 
 ### Languages I Learned
-[![cpp](https://github-readme-stats.vercel.app/api/pin/?username=dheerajpoonia29&repo=cppLanguage-courseWork&theme=tokyonight)](https://github.com/dheerajpoonia29/cppLanguage-courseWork) | [![python](https://github-readme-stats.vercel.app/api/pin/?username=dheerajpoonia29&repo=pythonLanguage-courseWork&theme=tokyonight)](https://github.com/dheerajpoonia29/pythonLanguage-courseWork) | 
-[![javascript](https://github-readme-stats.vercel.app/api/pin/?username=dheerajpoonia29&repo=javascriptLanguage-autoDidact&theme=tokyonight)](https://github.com/dheerajpoonia29/javascriptLanguage-autoDidact) | [![java](https://github-readme-stats.vercel.app/api/pin/?username=dheerajpoonia29&repo=javaLanguage-courseWork&theme=tokyonight)](https://github.com/dheerajpoonia29/javaLanguage-courseWork&theme=tokyonight) |
+|      cpp | python | java | javascript |
+:-------------------------:|:-------------------------:|:-------------------------:|:-------------------------:
+[![cpp](https://github-readme-stats.vercel.app/api/pin/?username=dheerajpoonia29&repo=cppLanguage-courseWork&theme=tokyonight)](https://github.com/dheerajpoonia29/cppLanguage-courseWork) | [![python](https://github-readme-stats.vercel.app/api/pin/?username=dheerajpoonia29&repo=pythonLanguage-courseWork&theme=tokyonight)](https://github.com/dheerajpoonia29/pythonLanguage-courseWork) | [![java](https://github-readme-stats.vercel.app/api/pin/?username=dheerajpoonia29&repo=javaLanguage-courseWork&theme=tokyonight)](https://github.com/dheerajpoonia29/javaLanguage-courseWork&theme=tokyonight) |[![javascript](https://github-readme-stats.vercel.app/api/pin/?username=dheerajpoonia29&repo=javascriptLanguage-autoDidact&theme=tokyonight)](https://github.com/dheerajpoonia29/javascriptLanguage-autoDidact)
 
 ### Undergraduation Course Work 
 > Digital Image Processing  [repo](https://github.com/dheerajpoonia29/digitalImageProcessing-courseWork), Machine Learning Algorithms  [repo](https://github.com/dheerajpoonia29/machineLearningAlgorithm-courseWork), Computer Graphics [repo](https://github.com/dheerajpoonia29/cppComputerGraphics-courseWork)
@@ -32,6 +35,3 @@ Here are some ideas to get you started:
 Contributions are welcomed! <3
 
 Code with ❤️ by <a href="https://soundcloud.com/dheerajpoonia29" target="_blank">**trancecoder** <img alt="Tests Passing" src="https://github.com/dheerajpoonia29/dheerajpoonia29/blob/master/icons8-soundcloud.svg" height=25 weight=25/></a>
-
-
-![Dino](https://github.com/dheerajpoonia29/dheerajpoonia29/blob/master/dino.gif)
