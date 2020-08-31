@@ -25,7 +25,7 @@ Here are some ideas to get you started:
 [![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=dheerajpoonia29&repo=bookReview-projectPythonFlask&theme=tokyonight&hide=disc)](https://github.com/dheerajpoonia29/bookReview-projectPythonFlask) | [![student-mark-management](https://github-readme-stats.vercel.app/api/pin/?username=dheerajpoonia29&repo=studentsMarksManagement-projectPythonDjango&theme=tokyonight)](https://github.com/dheerajpoonia29/studentsMarksManagement-projectPythonDjango) | [![ecommerce-website](https://github-readme-stats.vercel.app/api/pin/?username=dheerajpoonia29&repo=mernStack-bootcampLco&theme=tokyonight)](https://github.com/dheerajpoonia29/mernStack-bootcampLco)
 
 ### Languages I Learned
-|      cpp | java | python | javascript |
+|      .cpp | .java | .py | .js |
 :-------------------------:|:-------------------------:|:-------------------------:|:-------------------------:
 [![cpp](https://github-readme-stats.vercel.app/api/pin/?username=dheerajpoonia29&repo=cppLanguage-courseWork&theme=tokyonight&line_height=10)](https://github.com/dheerajpoonia29/cppLanguage-courseWork) | [![java](https://github-readme-stats.vercel.app/api/pin/?username=dheerajpoonia29&repo=javaLanguage-courseWork&theme=tokyonight&line_height=10)](https://github.com/dheerajpoonia29/javaLanguage-courseWork) | [![python](https://github-readme-stats.vercel.app/api/pin/?username=dheerajpoonia29&repo=pythonLanguage-courseWork&theme=tokyonight&line_height=10)](https://github.com/dheerajpoonia29/pythonLanguage-courseWork) |[![javascript](https://github-readme-stats.vercel.app/api/pin/?username=dheerajpoonia29&repo=javascriptLanguage-autoDidact&theme=tokyonight&line_height=5)](https://github.com/dheerajpoonia29/javascriptLanguage-autoDidact)
 
