@@ -23,7 +23,7 @@ Here are some ideas to get you started:
 |      python, flask, postgres     |   python, django, orm     |    javascript, mern stack    |
 :-------------------------:|:-------------------------:|:-------------------------:
 [![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=dheerajpoonia29&repo=bookReview-projectPythonFlask&theme=tokyonight&hide=disc)](https://github.com/dheerajpoonia29/bookReview-projectPythonFlask) | [![student-mark-management](https://github-readme-stats.vercel.app/api/pin/?username=dheerajpoonia29&repo=studentsMarksManagement-projectPythonDjango&theme=tokyonight)](https://github.com/dheerajpoonia29/studentsMarksManagement-projectPythonDjango) | [![ecommerce-website](https://github-readme-stats.vercel.app/api/pin/?username=dheerajpoonia29&repo=mernStack-bootcampLco&theme=tokyonight)](https://github.com/dheerajpoonia29/mernStack-bootcampLco)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=dheerajpoonia29&show_icons=true&layout=compact&theme=tokyonight&hide=jupyter%20notebook,html)](https://soundcloud.com/dheerajpoonia29)
+
 ### Languages I Learned
 |      .cpp | .java | .py | .js |
 :-------------------------:|:-------------------------:|:-------------------------:|:-------------------------:
