@@ -17,13 +17,13 @@ Here are some ideas to get you started:
 -->
 
 [![Dheeraj github stats](https://github-readme-stats.vercel.app/api?username=dheerajpoonia29&show_icons=true&line_height=15&theme=tokyonight)](https://soundcloud.com/dheerajpoonia29)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=dheerajpoonia29&show_icons=true&layout=compact&theme=tokyonight&hide=jupyter%20notebook)](https://soundcloud.com/dheerajpoonia29)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=dheerajpoonia29&show_icons=true&layout=compact&theme=tokyonight&hide=jupyter%20notebook,html)](https://soundcloud.com/dheerajpoonia29)
 
 ### Projects I Made
 |      python, flask, postgres     |   python, django, orm     |    javascript, mern stack    |
 :-------------------------:|:-------------------------:|:-------------------------:
 [![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=dheerajpoonia29&repo=bookReview-projectPythonFlask&theme=tokyonight&hide=disc)](https://github.com/dheerajpoonia29/bookReview-projectPythonFlask) | [![student-mark-management](https://github-readme-stats.vercel.app/api/pin/?username=dheerajpoonia29&repo=studentsMarksManagement-projectPythonDjango&theme=tokyonight)](https://github.com/dheerajpoonia29/studentsMarksManagement-projectPythonDjango) | [![ecommerce-website](https://github-readme-stats.vercel.app/api/pin/?username=dheerajpoonia29&repo=mernStack-bootcampLco&theme=tokyonight)](https://github.com/dheerajpoonia29/mernStack-bootcampLco)
-
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=dheerajpoonia29&show_icons=true&layout=compact&theme=tokyonight&hide=jupyter%20notebook,html)](https://soundcloud.com/dheerajpoonia29)
 ### Languages I Learned
 |      .cpp | .java | .py | .js |
 :-------------------------:|:-------------------------:|:-------------------------:|:-------------------------:
@@ -35,3 +35,4 @@ Here are some ideas to get you started:
 Contributions are welcomed! <3
 
 Code with ❤️ by <a href="https://soundcloud.com/dheerajpoonia29" target="_blank">**trancecoder** <img alt="Tests Passing" src="https://github.com/dheerajpoonia29/dheerajpoonia29/blob/master/icons8-soundcloud.svg" height=25 weight=25/></a>
+tgit
