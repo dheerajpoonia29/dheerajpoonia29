@@ -20,7 +20,7 @@ Here are some ideas to get you started:
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=dheerajpoonia29&show_icons=true&layout=compact&theme=tokyonight&hide=jupyter%20notebook,html)](https://soundcloud.com/dheerajpoonia29)
 
 ### Projects I Made
-|      python, flask, postgres     |   python, django, orm     |    javascript, mern stack    |
+|      javascript, adonis js, mysql     |   python, django, orm     |    javascript, mern stack    |
 :-------------------------:|:-------------------------:|:-------------------------:
 [![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=dheerajpoonia29&repo=divamTech-adonisTask1&theme=tokyonight&hide=disc)](https://github.com/dheerajpoonia29/divamTech-adonisTask1) | [![student-mark-management](https://github-readme-stats.vercel.app/api/pin/?username=dheerajpoonia29&repo=studentsMarksManagement-projectPythonDjango&theme=tokyonight)](https://github.com/dheerajpoonia29/studentsMarksManagement-projectPythonDjango) | [![ecommerce-website](https://github-readme-stats.vercel.app/api/pin/?username=dheerajpoonia29&repo=mernStack-bootcampLco&theme=tokyonight)](https://github.com/dheerajpoonia29/mernStack-bootcampLco)
 
